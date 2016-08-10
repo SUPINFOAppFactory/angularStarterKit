@@ -1,8 +1,8 @@
 {
-  "author":"SUPINFO AppFactory"
+  "author":""
 ,"pluginName":"Angular Starter Kit"
-,"pluginDescription":"Basic SUPINFO AppFactory angular starter plugin"
-,"supportEmail":"supinfoappfactory@supinfo.com"
+,"pluginDescription":"Basic angular starter plugin"
+,"supportEmail":""
 ,"control":{
   "content":{
     "enabled":true
